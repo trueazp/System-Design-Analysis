@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T03:22:13.604Z" agent="5.0 (Windows)" etag="8jUIdphdPcP3wnoMlq9s" version="14.9.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-13T03:24:34.371Z" agent="5.0 (Windows)" etag="q9Mv7Xb0Dfd4puBCPzE4" version="14.9.8" type="github" pages="9">
   <diagram id="ZrCficOF1wyF53tZasKa" name="Struktur Fungsional">
     <mxGraphModel dx="865" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -965,6 +965,54 @@
         <mxCell id="MHSXpm-EniEWhMTULBKz-30" value="Check Out" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF9933;align=center;" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
           <mxGeometry x="1170" y="1610" width="160" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="k4K-X-nZ7ltmIiKGYNuD" name="DFD LVL2 Process 1 - Reservasi Kamar">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="cqgt9oRrSc5HAWlwwbtt-0" />
+        <mxCell id="cqgt9oRrSc5HAWlwwbtt-1" parent="cqgt9oRrSc5HAWlwwbtt-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0WR_HV58cR8qVaEVUEpa" name="DFD LVL2 Process 2 - Persiapan Kamar">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="arw5q7DULEJ_oAr8T5tj-0" />
+        <mxCell id="arw5q7DULEJ_oAr8T5tj-1" parent="arw5q7DULEJ_oAr8T5tj-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Hz-GLiCo5txmpIDnD7xb" name="DFD LVL2 Process 3 - Check In">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="w0aeYSwzQMJF5N9mKBVY-0" />
+        <mxCell id="w0aeYSwzQMJF5N9mKBVY-1" parent="w0aeYSwzQMJF5N9mKBVY-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LmTygzJPN0DakIPVIpeo" name="DFD LVL2 Process 4 - Pembatalan Reservasi">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="2m7sX9y1OAjx2UcAIkM_-0" />
+        <mxCell id="2m7sX9y1OAjx2UcAIkM_-1" parent="2m7sX9y1OAjx2UcAIkM_-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="utW7XhBDtt5XY_b4Wlz4" name="DFD LVL2 Process 5 - Perubahan Data Reservasi">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="MQoOAMycLIH5sRUuNWIi-0" />
+        <mxCell id="MQoOAMycLIH5sRUuNWIi-1" parent="MQoOAMycLIH5sRUuNWIi-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_DUD5TCuWHi8txdM-dqC" name="DFD LVL2 Process 6 - Check Out">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="3GUAEKYv5gvbC4ubbczI-0" />
+        <mxCell id="3GUAEKYv5gvbC4ubbczI-1" parent="3GUAEKYv5gvbC4ubbczI-0" />
       </root>
     </mxGraphModel>
   </diagram>
