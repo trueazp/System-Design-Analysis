@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T03:11:19.157Z" agent="5.0 (Windows)" etag="KO2T-wklQtNy0rX06M9A" version="14.9.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-13T03:15:30.091Z" agent="5.0 (Windows)" etag="yxorQEbN_3PbroDdr4Wl" version="14.9.8" type="github" pages="3">
   <diagram id="ZrCficOF1wyF53tZasKa" name="Struktur Fungsional">
     <mxGraphModel dx="865" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -453,7 +453,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DfQs1ru_qiTN3-beOKii" name="DFD LVL 1">
-    <mxGraphModel dx="1730" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="p9Lg9hMoXTt5JNPYrgv3-0" />
         <mxCell id="p9Lg9hMoXTt5JNPYrgv3-1" parent="p9Lg9hMoXTt5JNPYrgv3-0" />
@@ -786,21 +786,11 @@
             <mxPoint x="18" y="-43" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MHSXpm-EniEWhMTULBKz-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=2;exitX=0;exitY=0;exitDx=75;exitDy=132.5;exitPerimeter=0;" edge="1" parent="p9Lg9hMoXTt5JNPYrgv3-1" source="E5mQUh2ZspJ6Xsc1hd50-22" target="MHSXpm-EniEWhMTULBKz-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E5mQUh2ZspJ6Xsc1hd50-22" value="Receptionist" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF6666;align=center;whiteSpace=wrap;" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
           <mxGeometry x="150" y="685.01" width="140" height="132.5" as="geometry" />
-        </mxCell>
-        <mxCell id="E5mQUh2ZspJ6Xsc1hd50-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=97.5;exitDy=0;exitPerimeter=0;fontFamily=Helvetica;fontSize=10;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=2;entryX=0.387;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="p9Lg9hMoXTt5JNPYrgv3-1" source="E5mQUh2ZspJ6Xsc1hd50-23" target="sYSr1eRBodRrOE73trEK-140">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="535" y="860" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="542" y="1088" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WtKDN64-xirnHi8TaBy--6" value="data pembelian produk hotel, &lt;br style=&quot;font-size: 14px;&quot;&gt;data fasilitas hotel yang hilang, &lt;br style=&quot;font-size: 14px;&quot;&gt;data barang tamu yang tertinggal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" connectable="0" parent="E5mQUh2ZspJ6Xsc1hd50-78">
-          <mxGeometry x="-0.1037" y="-1" relative="1" as="geometry">
-            <mxPoint x="107" y="-5" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="E5mQUh2ZspJ6Xsc1hd50-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.429;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Helvetica;fontSize=10;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="p9Lg9hMoXTt5JNPYrgv3-1" source="E5mQUh2ZspJ6Xsc1hd50-23" target="sYSr1eRBodRrOE73trEK-140">
           <mxGeometry relative="1" as="geometry">
@@ -815,8 +805,16 @@
             <mxPoint x="-71" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MHSXpm-EniEWhMTULBKz-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontSize=11;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=2;" edge="1" parent="p9Lg9hMoXTt5JNPYrgv3-1" source="E5mQUh2ZspJ6Xsc1hd50-23" target="MHSXpm-EniEWhMTULBKz-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MHSXpm-EniEWhMTULBKz-43" value="data pembelian produk hotel, &lt;br style=&quot;font-size: 14px;&quot;&gt;data fasilitas hotel yang hilang, &lt;br style=&quot;font-size: 14px;&quot;&gt;data barang tamu yang tertinggal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Verdana;" vertex="1" connectable="0" parent="MHSXpm-EniEWhMTULBKz-42">
+          <mxGeometry x="-0.2083" y="-3" relative="1" as="geometry">
+            <mxPoint x="-8" y="-49" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E5mQUh2ZspJ6Xsc1hd50-23" value="Room &lt;br style=&quot;font-size: 18px;&quot;&gt;Service" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF6666;align=center;whiteSpace=wrap;" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
-          <mxGeometry x="450" y="1087.5" width="140" height="132.5" as="geometry" />
+          <mxGeometry x="450" y="980" width="140" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="E5mQUh2ZspJ6Xsc1hd50-24" value="Manager" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF6666;align=center;whiteSpace=wrap;" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
           <mxGeometry x="50" y="1348.75" width="140" height="132.5" as="geometry" />
