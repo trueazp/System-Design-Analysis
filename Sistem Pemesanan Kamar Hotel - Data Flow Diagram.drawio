@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T03:24:34.371Z" agent="5.0 (Windows)" etag="q9Mv7Xb0Dfd4puBCPzE4" version="14.9.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-10-13T03:25:54.102Z" agent="5.0 (Windows)" etag="Xpeb_OkohndJ-u3pB1mu" version="14.9.8" type="github" pages="9">
   <diagram id="ZrCficOF1wyF53tZasKa" name="Struktur Fungsional">
     <mxGraphModel dx="865" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -453,7 +453,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DfQs1ru_qiTN3-beOKii" name="DFD LVL 1">
-    <mxGraphModel dx="1730" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="p9Lg9hMoXTt5JNPYrgv3-0" />
         <mxCell id="p9Lg9hMoXTt5JNPYrgv3-1" parent="p9Lg9hMoXTt5JNPYrgv3-0" />
@@ -964,6 +964,27 @@
         </mxCell>
         <mxCell id="MHSXpm-EniEWhMTULBKz-30" value="Check Out" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF9933;align=center;" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
           <mxGeometry x="1170" y="1610" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm1pOfllRnOXzcFZLom-0" value="1.0&lt;br style=&quot;font-size: 18px&quot;&gt;Olah Data &lt;br&gt;Entitas Hotel" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#3399FF;align=center;fontStyle=1" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
+          <mxGeometry x="703.75" y="160" width="202.5" height="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm1pOfllRnOXzcFZLom-1" value="Manager" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF9933;align=center;" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
+          <mxGeometry x="1115" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm1pOfllRnOXzcFZLom-2" value="Receptionist" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF9933;align=center;" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
+          <mxGeometry x="1115" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm1pOfllRnOXzcFZLom-3" value="Room Service" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF9933;align=center;" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
+          <mxGeometry x="1115" y="281.25" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm1pOfllRnOXzcFZLom-4" value="Tamu" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF9933;align=center;" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
+          <mxGeometry x="1115" y="372.5" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm1pOfllRnOXzcFZLom-5" value="Tamu" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF6666;align=center;whiteSpace=wrap;" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
+          <mxGeometry x="450" y="362.5" width="140" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0gm1pOfllRnOXzcFZLom-6" value="Receptionist" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF6666;align=center;whiteSpace=wrap;" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
+          <mxGeometry x="150" y="685.01" width="140" height="132.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
