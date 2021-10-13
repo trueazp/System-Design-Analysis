@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T03:06:00.796Z" agent="5.0 (Windows)" etag="C31ButkLkudCien0TO0L" version="14.9.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-13T03:06:08.919Z" agent="5.0 (Windows)" etag="B7werN67ZnaVErrC5BSs" version="14.9.8" type="github" pages="3">
   <diagram id="ZrCficOF1wyF53tZasKa" name="Struktur Fungsional">
     <mxGraphModel dx="865" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -505,7 +505,7 @@
         </mxCell>
         <mxCell id="Z6kYqVf5zbDy2IzwC7V6-3" value="laporan reservasi kamar, laporan daftar check in tamu, &lt;br&gt;laporan daftar check out tamu, laporan daftar hadir karyawan, &lt;br&gt;laporan pembayaran tagihan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" connectable="0" parent="E5mQUh2ZspJ6Xsc1hd50-81">
           <mxGeometry x="0.2457" relative="1" as="geometry">
-            <mxPoint x="39" y="-26" as="offset" />
+            <mxPoint x="140" y="-69" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sYSr1eRBodRrOE73trEK-142" value="4.0&lt;br style=&quot;font-size: 18px&quot;&gt;Pembuatan &lt;br&gt;Laporan" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#3399FF;align=center;fontStyle=1" vertex="1" parent="p9Lg9hMoXTt5JNPYrgv3-1">
