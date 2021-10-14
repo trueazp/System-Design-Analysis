@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T10:57:35.815Z" agent="5.0 (Windows)" etag="0V2g3J3ydUlxVI5RcBvr" version="15.5.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-10-14T11:05:13.545Z" agent="5.0 (Windows)" etag="WBg0_-UgcwwWIW5KE8fQ" version="15.5.2" type="github" pages="8">
   <diagram id="ZrCficOF1wyF53tZasKa" name="Struktur Fungsional">
     <mxGraphModel dx="1221" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -177,18 +177,6 @@
         </mxCell>
         <mxCell id="OVLUpKgA7s6hG_SyViUj-70" value="ANGGOTA HOTEL" style="html=1;dashed=0;whitespace=wrap;strokeColor=#330000;fillColor=#3399FF;shadow=1;glass=0;sketch=0;rounded=0;strokeWidth=2;fontFamily=Helvetica;fontStyle=1;align=center;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="20" y="150" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qpNL_RNGQtDXW5kEJnG7-1" value="Laporan &lt;br&gt;Pembayaran Tagihan" style="html=1;dashed=0;whitespace=wrap;strokeColor=#330000;fillColor=#00994D;shadow=1;glass=0;sketch=0;rounded=0;strokeWidth=2;fontFamily=Helvetica;fontStyle=0;align=center;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="700" y="480" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qpNL_RNGQtDXW5kEJnG7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;shadow=0;fontFamily=Helvetica;fontStyle=0;align=center;labelBackgroundColor=none;labelBorderColor=none;verticalAlign=middle;endArrow=none;endFill=0;exitX=0.125;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="670" y="500" />
-            </Array>
-            <mxPoint x="670" y="200.5" as="sourcePoint" />
-            <mxPoint x="700" y="500" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="xkPzTGHqWsPfg5DRQnUM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;shadow=0;fontFamily=Helvetica;fontStyle=0;align=center;labelBackgroundColor=none;labelBorderColor=none;verticalAlign=middle;endArrow=none;endFill=0;" edge="1" parent="1" source="xkPzTGHqWsPfg5DRQnUM-6" target="xkPzTGHqWsPfg5DRQnUM-8">
           <mxGeometry relative="1" as="geometry">
