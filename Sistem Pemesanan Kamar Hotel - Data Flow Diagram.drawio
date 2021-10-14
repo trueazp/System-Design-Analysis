@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T13:40:55.378Z" agent="5.0 (Windows)" etag="bGnmdS1UDzypgOgsrn2_" version="15.5.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-10-14T13:42:01.187Z" agent="5.0 (Windows)" etag="mRMI8-gclvg7BN4Y1-fH" version="15.5.2" type="github" pages="12">
   <diagram id="ZrCficOF1wyF53tZasKa" name="Struktur Fungsional">
     <mxGraphModel dx="1221" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1070,7 +1070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DFD LVL 2 Process 2 - Olah Master Data - NEW" id="oUBmAq7OA-WtZ7Ot-k8U">
-    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="3Y0o5SbzTlAVv69JsD42-0" />
         <mxCell id="3Y0o5SbzTlAVv69JsD42-1" parent="3Y0o5SbzTlAVv69JsD42-0" />
@@ -1174,9 +1174,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yL3zJJdLboUHjO-kNmJe-2" value="informasi tamu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="yL3zJJdLboUHjO-kNmJe-0">
+        <mxCell id="yL3zJJdLboUHjO-kNmJe-2" value="&lt;div&gt;informasi &lt;br&gt;&lt;/div&gt;&lt;div&gt;tamu&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="yL3zJJdLboUHjO-kNmJe-0">
           <mxGeometry x="0.3847" y="-2" relative="1" as="geometry">
-            <mxPoint x="-8" y="14" as="offset" />
+            <mxPoint x="-34" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3Y0o5SbzTlAVv69JsD42-35" value="2.1&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;Olah Master &lt;br&gt;&lt;/div&gt;&lt;div&gt;Data Tamu&lt;br&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#3399FF;align=center;fontStyle=1" vertex="1" parent="3Y0o5SbzTlAVv69JsD42-1">
@@ -1217,7 +1217,7 @@
         </mxCell>
         <mxCell id="yL3zJJdLboUHjO-kNmJe-3" value="informasi kamar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="yL3zJJdLboUHjO-kNmJe-1">
           <mxGeometry x="0.7783" y="-1" relative="1" as="geometry">
-            <mxPoint x="18" as="offset" />
+            <mxPoint x="18" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3Y0o5SbzTlAVv69JsD42-39" value="2.3&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;Olah Master &lt;br&gt;&lt;/div&gt;&lt;div&gt;Data Kamar&lt;br&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#3399FF;align=center;fontStyle=1" vertex="1" parent="3Y0o5SbzTlAVv69JsD42-1">
@@ -1313,7 +1313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DFD LVL 2 Process 3 - Pengolahan Transaksi - NEW" id="7_tuTmNXD7wVAxgU_Lto">
-    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="EqGKcXEDujT2cSYuOv8m-0" />
         <mxCell id="EqGKcXEDujT2cSYuOv8m-1" parent="EqGKcXEDujT2cSYuOv8m-0" />
@@ -2723,7 +2723,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0Kf2hcJ6HxusRWTYz2mu" name="DFD LVL 2 Process 3 - Pengolahan Proses">
-    <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XgEk7bWL6KYDvo091WhT-0" />
         <mxCell id="XgEk7bWL6KYDvo091WhT-1" parent="XgEk7bWL6KYDvo091WhT-0" />
