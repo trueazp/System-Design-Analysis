@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T11:33:24.588Z" agent="5.0 (Windows)" etag="mZEiD0BzYO-DcqwrS3bU" version="15.5.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-10-14T11:53:11.243Z" agent="5.0 (Windows)" etag="_WoUzZTPYdIN4czsDHjM" version="15.5.2" type="github" pages="8">
   <diagram id="ZrCficOF1wyF53tZasKa" name="Struktur Fungsional">
     <mxGraphModel dx="1221" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -318,7 +318,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iotcYGgo8fp_svXy-w_L" name="DFD LVL 1 - NEW">
-    <mxGraphModel dx="1730" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="55HfGMcbJyxLeUhTTFH1-0" />
         <mxCell id="55HfGMcbJyxLeUhTTFH1-1" parent="55HfGMcbJyxLeUhTTFH1-0" />
@@ -371,11 +371,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Wx0Lx_-YGvPeM-k2K6B6-2" value="&lt;div&gt;informasi tamu, &lt;br&gt;&lt;/div&gt;&lt;div&gt;informasi kamar, &lt;br&gt;&lt;/div&gt;&lt;div&gt;informasi fasilitas&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="e1E7dZ6TNEaop6fNGx24-10">
+          <mxGeometry x="0.4555" relative="1" as="geometry">
+            <mxPoint x="65" y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m7UDNE1J6f8XQFTafpMO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=65;entryDy=0;entryPerimeter=0;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=2;" edge="1" parent="55HfGMcbJyxLeUhTTFH1-1" source="j-6stKW6qG6tPmK7nx1K-7" target="j-6stKW6qG6tPmK7nx1K-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="455" y="823" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wx0Lx_-YGvPeM-k2K6B6-1" value="&lt;div&gt;informasi kamar, &lt;br&gt;&lt;/div&gt;&lt;div&gt;informasi fasilitas&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="m7UDNE1J6f8XQFTafpMO-11">
+          <mxGeometry x="0.3243" y="2" relative="1" as="geometry">
+            <mxPoint x="-67" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-7" value="2.0&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;Olah Master &lt;br&gt;&lt;/div&gt;&lt;div&gt;Data&lt;br&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#3399FF;align=center;fontStyle=1" vertex="1" parent="55HfGMcbJyxLeUhTTFH1-1">
@@ -399,11 +409,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="k3b5wxcJ1NQBcikZkd_i-0" value="&lt;div&gt;nama , alamat, no. telp, &lt;br&gt;&lt;/div&gt;&lt;div&gt;jenis reservasi, lama inap, &lt;br&gt;&lt;/div&gt;&lt;div&gt;tanggal check in, &lt;/div&gt;tipe kamar, jumlah kamar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="YyQREbj2mfYITdJCKpEU-1">
+          <mxGeometry x="-0.3197" y="-2" relative="1" as="geometry">
+            <mxPoint x="-11" y="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YyQREbj2mfYITdJCKpEU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=40.625;exitPerimeter=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="55HfGMcbJyxLeUhTTFH1-1" source="j-6stKW6qG6tPmK7nx1K-15" target="j-6stKW6qG6tPmK7nx1K-79">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="770" y="1009" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3b5wxcJ1NQBcikZkd_i-1" value="bukti reservasi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="YyQREbj2mfYITdJCKpEU-4">
+          <mxGeometry x="-0.1461" y="2" relative="1" as="geometry">
+            <mxPoint x="46" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-15" value="Tamu" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF6666;align=center;whiteSpace=wrap;" vertex="1" parent="55HfGMcbJyxLeUhTTFH1-1">
@@ -456,6 +476,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ebBVudUxb-aHJY0QWE8c-1" value="kode receptionist" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="wAm__MaPHaTY6IIXsj_T-0">
+          <mxGeometry x="-0.8909" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-27" value="Receptionist" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF9933;align=center;" vertex="1" parent="55HfGMcbJyxLeUhTTFH1-1">
           <mxGeometry x="1115" y="280" width="160" height="40" as="geometry" />
         </mxCell>
@@ -486,6 +511,11 @@
               <mxPoint x="1620" y="381" />
               <mxPoint x="1620" y="1869" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ebBVudUxb-aHJY0QWE8c-2" value="kode room service" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="wAm__MaPHaTY6IIXsj_T-1">
+          <mxGeometry x="-0.8964" y="2" relative="1" as="geometry">
+            <mxPoint x="21" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-34" value="Room Service" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF9933;align=center;" vertex="1" parent="55HfGMcbJyxLeUhTTFH1-1">
@@ -593,17 +623,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ebBVudUxb-aHJY0QWE8c-3" value="kode tamu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="wAm__MaPHaTY6IIXsj_T-2">
+          <mxGeometry x="-0.8684" y="2" relative="1" as="geometry">
+            <mxPoint x="-5" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-65" value="Tamu" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF9933;align=center;" vertex="1" parent="55HfGMcbJyxLeUhTTFH1-1">
           <mxGeometry x="1115" y="452.5" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="j-6stKW6qG6tPmK7nx1K-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.032;entryY=0.673;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=13;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=2;exitX=0;exitY=0;exitDx=140;exitDy=101.875;exitPerimeter=0;labelBackgroundColor=none;entryPerimeter=0;" edge="1" parent="55HfGMcbJyxLeUhTTFH1-1" source="j-6stKW6qG6tPmK7nx1K-72" target="j-6stKW6qG6tPmK7nx1K-79">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=40.625;exitPerimeter=0;entryX=0.018;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=2;labelBackgroundColor=none;" edge="1" parent="55HfGMcbJyxLeUhTTFH1-1" source="j-6stKW6qG6tPmK7nx1K-72" target="j-6stKW6qG6tPmK7nx1K-79">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3b5wxcJ1NQBcikZkd_i-2" value="&lt;div&gt;informasi kamar, &lt;br&gt;&lt;/div&gt;&lt;div&gt;informasi check in tamu, &lt;br&gt;&lt;/div&gt;&lt;div&gt;informasi check out tamu, &lt;br&gt;&lt;/div&gt;&lt;div&gt;akses kamar, akses fasilitas hotel&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="j-6stKW6qG6tPmK7nx1K-70">
+          <mxGeometry x="-0.3048" y="1" relative="1" as="geometry">
+            <mxPoint x="39" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-72" value="Receptionist" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF6666;align=center;whiteSpace=wrap;" vertex="1" parent="55HfGMcbJyxLeUhTTFH1-1">
@@ -612,17 +647,26 @@
         <mxCell id="YyQREbj2mfYITdJCKpEU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=97.5;exitDy=0;exitPerimeter=0;entryX=0.267;entryY=0.945;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=2;" edge="1" parent="55HfGMcbJyxLeUhTTFH1-1" source="j-6stKW6qG6tPmK7nx1K-77" target="j-6stKW6qG6tPmK7nx1K-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YyQREbj2mfYITdJCKpEU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=32.5;exitDy=0;exitPerimeter=0;entryX=0.079;entryY=0.777;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="55HfGMcbJyxLeUhTTFH1-1" source="j-6stKW6qG6tPmK7nx1K-77" target="j-6stKW6qG6tPmK7nx1K-79">
+        <mxCell id="k3b5wxcJ1NQBcikZkd_i-5" value="data pembelian produk hotel, &lt;br style=&quot;font-size: 14px&quot;&gt;data fasilitas hotel yang hilang, &lt;br style=&quot;font-size: 14px&quot;&gt;data barang tamu yang tertinggal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="YyQREbj2mfYITdJCKpEU-20">
+          <mxGeometry x="0.1254" y="2" relative="1" as="geometry">
+            <mxPoint x="12" y="34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YyQREbj2mfYITdJCKpEU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=32.5;exitDy=0;exitPerimeter=0;entryX=0.079;entryY=0.772;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="55HfGMcbJyxLeUhTTFH1-1" source="j-6stKW6qG6tPmK7nx1K-77" target="j-6stKW6qG6tPmK7nx1K-79">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="692" y="1468" />
-              <mxPoint x="692" y="1468" />
-              <mxPoint x="692" y="1351" />
+              <mxPoint x="522" y="1400" />
+              <mxPoint x="719" y="1400" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="k3b5wxcJ1NQBcikZkd_i-4" value="&lt;div&gt;informasi reservasi kamar, &lt;br&gt;&lt;/div&gt;&lt;div&gt;informasi check in tamu, &lt;br&gt;&lt;/div&gt;&lt;div&gt;informasi check out tamu&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="YyQREbj2mfYITdJCKpEU-21">
+          <mxGeometry x="0.1324" y="2" relative="1" as="geometry">
+            <mxPoint x="-171" y="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-77" value="Room &lt;br style=&quot;font-size: 18px;&quot;&gt;Service" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF6666;align=center;whiteSpace=wrap;" vertex="1" parent="55HfGMcbJyxLeUhTTFH1-1">
-          <mxGeometry x="660" y="1540" width="140" height="132.5" as="geometry" />
+          <mxGeometry x="490" y="1560" width="140" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="e1E7dZ6TNEaop6fNGx24-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=classic;endFill=1;strokeWidth=2;" edge="1" parent="55HfGMcbJyxLeUhTTFH1-1" source="j-6stKW6qG6tPmK7nx1K-78" target="j-6stKW6qG6tPmK7nx1K-7">
           <mxGeometry relative="1" as="geometry" />
@@ -634,6 +678,14 @@
         </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-78" value="Manager" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF6666;align=center;whiteSpace=wrap;" vertex="1" parent="55HfGMcbJyxLeUhTTFH1-1">
           <mxGeometry x="50" y="685.01" width="140" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ebBVudUxb-aHJY0QWE8c-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.009;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=2;" edge="1" parent="55HfGMcbJyxLeUhTTFH1-1" source="j-6stKW6qG6tPmK7nx1K-79" target="j-6stKW6qG6tPmK7nx1K-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3b5wxcJ1NQBcikZkd_i-3" value="data reservasi kamar terbaru" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="ebBVudUxb-aHJY0QWE8c-0">
+          <mxGeometry x="0.0748" y="3" relative="1" as="geometry">
+            <mxPoint y="12" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-79" value="3.0&lt;br style=&quot;font-size: 18px&quot;&gt;Pengolahan &lt;br&gt;Transaksi" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#3399FF;align=center;fontStyle=1" vertex="1" parent="55HfGMcbJyxLeUhTTFH1-1">
           <mxGeometry x="702.5" y="1193.75" width="202.5" height="202.5" as="geometry" />
@@ -662,6 +714,11 @@
               <mxPoint x="1540" y="1136" />
               <mxPoint x="1540" y="1817" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ebBVudUxb-aHJY0QWE8c-4" value="daftar reservasi kamar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Rnxh-7OO64HaZx7kPzaR-0">
+          <mxGeometry x="-0.9014" y="-1" relative="1" as="geometry">
+            <mxPoint x="23" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-84" value="Reservasi Kamar" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF9933;align=center;" vertex="1" parent="55HfGMcbJyxLeUhTTFH1-1">
@@ -720,6 +777,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ebBVudUxb-aHJY0QWE8c-5" value="daftar check in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="m7UDNE1J6f8XQFTafpMO-6">
+          <mxGeometry x="-0.914" y="-2" relative="1" as="geometry">
+            <mxPoint x="24" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-94" value="Check In" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF9933;align=center;" vertex="1" parent="55HfGMcbJyxLeUhTTFH1-1">
           <mxGeometry x="1170" y="1281.25" width="160" height="40" as="geometry" />
         </mxCell>
@@ -770,6 +832,11 @@
               <mxPoint x="1460" y="1460" />
               <mxPoint x="1460" y="1753" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wx0Lx_-YGvPeM-k2K6B6-0" value="daftar check out" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="m7UDNE1J6f8XQFTafpMO-7">
+          <mxGeometry x="-0.873" relative="1" as="geometry">
+            <mxPoint y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j-6stKW6qG6tPmK7nx1K-104" value="Check Out" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FF9933;align=center;" vertex="1" parent="55HfGMcbJyxLeUhTTFH1-1">
