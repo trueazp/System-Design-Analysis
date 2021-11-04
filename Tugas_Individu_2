@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T00:42:10.589Z" agent="5.0 (Windows)" version="15.5.2" etag="OLRTEMCQn88EiZrAHGWF" type="github"><diagram id="RWRt_STddpqLtaSBFXKQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-04T00:43:24.100Z" agent="5.0 (Windows)" etag="bpc3mKUXFmDobuMDjCgM" version="15.5.2" type="github">
+  <diagram id="RWRt_STddpqLtaSBFXKQ" name="Use Case Diagram">
+    <mxGraphModel dx="865" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xB5410cgxglNdRJOYvok-1" value="&lt;div&gt;Pembeli&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xB5410cgxglNdRJOYvok-2" value="&lt;div&gt;Karyawan&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xB5410cgxglNdRJOYvok-3" value="&lt;div&gt;Apoteker&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
