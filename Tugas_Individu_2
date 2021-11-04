@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T01:11:10.513Z" agent="5.0 (Windows)" etag="mlO6HGLpjpyiJWi0PyE3" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T01:11:26.975Z" agent="5.0 (Windows)" etag="CtpDZk8_e9BuLuCBUl5g" version="15.5.2" type="github">
   <diagram id="RWRt_STddpqLtaSBFXKQ" name="Use Case Diagram">
-    <mxGraphModel dx="716" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="xB5410cgxglNdRJOYvok-6" value="Pengelolaan Data Pegawai/Karyawan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xB5410cgxglNdRJOYvok-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xB5410cgxglNdRJOYvok-7" target="xB5410cgxglNdRJOYvok-9">
+        <mxCell id="xB5410cgxglNdRJOYvok-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0;exitDx=0;exitDy=0;jumpStyle=arc;" edge="1" parent="1" source="xB5410cgxglNdRJOYvok-7" target="xB5410cgxglNdRJOYvok-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="902" />
