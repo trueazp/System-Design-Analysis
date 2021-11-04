@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T01:06:34.426Z" agent="5.0 (Windows)" etag="6sXRjLDo53CWI9CGEwbk" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T01:06:45.998Z" agent="5.0 (Windows)" etag="hw48aWUjCwJP-sKZEk8h" version="15.5.2" type="github">
   <diagram id="RWRt_STddpqLtaSBFXKQ" name="Use Case Diagram">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         </mxCell>
         <mxCell id="xB5410cgxglNdRJOYvok-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xB5410cgxglNdRJOYvok-13">
           <mxGeometry x="0.7633" y="2" relative="1" as="geometry">
-            <mxPoint x="-28" as="offset" />
+            <mxPoint x="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xB5410cgxglNdRJOYvok-7" value="Pengelolaan Data Apoteker" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
